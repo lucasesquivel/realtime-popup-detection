@@ -1,6 +1,6 @@
-# adDetector
+# AD Detector
 
-**adDetector** is a Python-based automated popup detection and persistent overlay system.  
+**AD Detector** is a Python-based automated popup detection and persistent overlay system.  
 It identifies popups on the screen in real-time and displays a configurable semi-transparent overlay to prevent distractions or interruptions. Designed with modularity and configurability in mind, this project demonstrates strong Python engineering, UI handling, and automation skills.
 
 ---
