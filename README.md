@@ -24,21 +24,37 @@ adDetector/
 ├─ adDetector/ # Core source code
 
 │ ├─ init.py
+
 │ ├─ config.py # Centralized configuration
+
 │ ├─ detector.py # Main detection logic
+
 │ └─ find_coords.py # Helper functions for ROI and coordinates
+
 │
+
 ├─ assets/ # Popup templates and other resources
+
 │ └─ popup_template.png
+
 │
+
 ├─ logs/ # Optional runtime logs
+
 │
+
 ├─ tests/ # Optional unit tests
+
 │
+
 ├─ .gitignore
+
 ├─ requirements.txt # Python dependencies
+
 ├─ README.md
+
 └─ LICENSE
+
 
 ---
 
