@@ -18,8 +18,11 @@ It identifies popups on the screen in real-time and displays a configurable semi
 ## Project Structure
 
 adDetector/
+
 │
+
 ├─ adDetector/ # Core source code
+
 │ ├─ init.py
 │ ├─ config.py # Centralized configuration
 │ ├─ detector.py # Main detection logic
